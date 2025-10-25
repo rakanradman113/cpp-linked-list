@@ -1,12 +1,12 @@
-# 🔗 Linked List Implementation
+# Linked List Implementation
 
-### 🔍 Overview
+### Overview
 A custom singly linked list implemented from scratch in C++.  
 Includes node insertion, deletion, traversal, counting, and duplicate removal.
 
 ---
 
-### ⚙️ Features
+### Features
 - Core operations:  
   - `pushFront()` / `pushBack()`  
   - `deleteItem()` / `contains()`  
@@ -16,7 +16,7 @@ Includes node insertion, deletion, traversal, counting, and duplicate removal.
 
 ---
 
-### 🧩 Example
+### Example
 ```bash
 List: 5 -> 10 -> 10 -> 15 -> nullptr
 Size: 4
